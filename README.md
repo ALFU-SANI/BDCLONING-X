@@ -1,25 +1,24 @@
 # BANGLADESH BD CLONING OLD CLONING ID
-#BDCLONING-XBDCLONING-X
+# BDCLONING-XBDCLONING-X
 
-pkg update
+# pkg update
 
-pkg upgrade
+# pkg upgrade
 
-pkg install python2
+# pkg install python2
 
-pkg install git
+# pkg install git
 
-pip2 install mechanize
+# pip2 install mechanize
 
-pip2 install requests
+# pip2 install requests
 
-git clone
-
+# git clone
 https://github.com/ALFU-SANI/BDCLONING-X
 
-cd BDCLONING-X
+# cd BDCLONING-X
 
-python2 Prantoold2.py
+# python2 Prantoold2.py
 
 
 
